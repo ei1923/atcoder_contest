@@ -20,5 +20,6 @@
         "xiosbase": "cpp",
         "random": "cpp",
         "ios": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
